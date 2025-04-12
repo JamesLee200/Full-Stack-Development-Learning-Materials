@@ -51,6 +51,3 @@
 ## License
 
 GPL v3
-```
-
-
